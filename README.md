@@ -3,8 +3,8 @@
 Paper and dataset collection for the paper "Explainable Anomaly Detection in Images and Videos: A Survey".
 
 <div align="center">
-  <img src="images/iad.jpg" width="450px" height="400px"> ></a>
-  <img src="images/vad.jpg" width="450px" height="400px">
+  <img src="images/iad.jpg" width="350px" height="300px"> ></a>
+  <img src="images/vad.jpg" width="350px" height="300px">
 </div>
 
 

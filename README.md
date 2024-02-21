@@ -3,8 +3,8 @@
 Paper and dataset collection for the paper "Explainable Anomaly Detection in Images and Videos: A Survey".
 
 <div align="center">
-  <img src="images/iad.jpg" width="230px" height="230px"> ></a>
-  <img src="images/vad.jpg" width="230px" height="230px">
+  <img src="images/iad.jpg" width="550px" height="500px"> ></a>
+  <img src="images/vad.jpg" width="550px" height="500px">
 </div>
 
 
@@ -83,7 +83,7 @@ Out-of-Distribution Samples and Adversarial Attacks. | **NIPS 2018** | [[pdf]](h
 [2007] [DAGM](https://hci.iwr.uni-heidelberg.de/content/weakly-supervised-learning-industrial-optical-inspection), [2012] [BRATS](https://www.med.upenn.edu/cbica/brats/), [2015] [UK-Biobank](https://www.ukbiobank.ac.uk/enable-your-research/about-our-data), [2017] [MSLUB](https://link.springer.com/article/10.1007/s12021-017-9348-7), [2019] [WMH](https://github.com/hjkuijf/wmhchallenge), [2019] [Fishyscapes](https://fishyscapes.com/), [2019] [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/), [2019] [LAG](https://github.com/smilell/AG-CNN), [2019] [MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad), [2020] [MTD](https://github.com/abin24/Magnetic-tile-defect-datasets.), [2020] [SDD](https://www.vicos.si/resources/kolektorsdd/), [2021] [BTAD](https://paperswithcode.com/dataset/btad),  [2021] [MPDD](https://vutbr-my.sharepoint.com/:f:/g/personal/xjezek16_vutbr_cz/EhHS_ufVigxDo3MC6Lweau0BVMuoCmhMZj6ddamiQ7-FnA?e=oHKCxI), [2021] [MedMNIST](https://medmnist.com/), [2021] [KSSD2](https://www.vicos.si/resources/kolektorsdd2/), [2021] [RoadAnomaly21](https://segmentmeifyoucan.com/datasets), [2022] [VisA](https://paperswithcode.com/dataset/visa), [2022] [MVTec LOCO AD](https://www.mvtec.com/company/research/datasets/mvtec-loco?gad_source=1&gclid=CjwKCAiAuNGuBhAkEiwAGId4apFQMGEJODgQZRX3Tg37hVLBLEDY3808RhHBrNy3OM_nIqZcC7qmAhoCJF0QAvD_BwE)
 
 ### [Video]
-[2008] [Subway](https://www.researchgate.net/figure/Subway-dataset-exit-gate-three-abnormal-events-and-their-corresponding-detection-maps_fig2_329353016), [2009][UMN](https://www.crcv.ucf.edu/projects/Abnormal_Crowd/#UMN), [2010] [UCSD-Ped](http://www.svcl.ucsd.edu/projects/anomaly/dataset.htm), [2013] [CUHK-Avenue](http://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html), [2018] [UCF-Crime](https://www.dropbox.com/sh/75v5ehq4cdg5g5g/AABvnJSwZI7zXb8_myBA0CLHa?e=1&dl=0), [2018] [ShanghaiTech-Campus](https://svip-lab.github.io/dataset/campus_dataset.html), [2019] [Street-Scene](https://www.merl.com/research/highlights/video-anomaly-detection), [2020] [XD-Violence](https://roc-ng.github.io/XD-Violence/), [2021] [X-MAN](https://arxiv.org/pdf/2106.08856.pdf), [2021] [TAD](https://github.com/ktr-hubrt/WSAL), [2022] [UBnormal](https://github.com/lilygeorgescu/UBnormal/), [2023] [NWPU-Campus](https://campusvad.github.io/)
+[2008] [Subway](https://www.researchgate.net/figure/Subway-dataset-exit-gate-three-abnormal-events-and-their-corresponding-detection-maps_fig2_329353016), [2009] [UMN](https://www.crcv.ucf.edu/projects/Abnormal_Crowd/#UMN), [2010] [UCSD-Ped](http://www.svcl.ucsd.edu/projects/anomaly/dataset.htm), [2013] [CUHK-Avenue](http://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html), [2018] [UCF-Crime](https://www.dropbox.com/sh/75v5ehq4cdg5g5g/AABvnJSwZI7zXb8_myBA0CLHa?e=1&dl=0), [2018] [ShanghaiTech-Campus](https://svip-lab.github.io/dataset/campus_dataset.html), [2019] [Street-Scene](https://www.merl.com/research/highlights/video-anomaly-detection), [2020] [XD-Violence](https://roc-ng.github.io/XD-Violence/), [2021] [X-MAN](https://arxiv.org/pdf/2106.08856.pdf), [2021] [TAD](https://github.com/ktr-hubrt/WSAL), [2022] [UBnormal](https://github.com/lilygeorgescu/UBnormal/), [2023] [NWPU-Campus](https://campusvad.github.io/)
 
 
 

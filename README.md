@@ -1,6 +1,6 @@
 # Awesome-XAD [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Paper and dataset collection for the paper "Explainable Anomaly Detection in Images and Videos: A Survey".
+Paper and dataset collection for the [paper](https://arxiv.org/pdf/2302.06670.pdf).
 
 <div align="center">
   <img src="images/iad.jpg" width="350px" height="350px"> ></a>

@@ -44,6 +44,7 @@ Out-of-Distribution Samples and Adversarial Attacks. | **NIPS 2018** | [[pdf]](h
 - **[Diffusion-anomaly]** Diffusion Models for Medical Anomaly Detection. | **MICCAI 2022** | [[pdf]](https://arxiv.org/pdf/2203.04306.pdf) [[code]](https://github.com/JuliaWolleb/diffusion-anomaly)
 - **[DDPM]** Fast unsupervised brain anomaly detection and segmentation with diffusion models. | **MICCAI 2022** | [[pdf]](https://arxiv.org/pdf/2206.03461.pdf) 
 - **[DiAD]** DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection. | **AAAI 2024** | [[pdf]](https://arxiv.org/pdf/2312.06607.pdf) [[code]](https://github.com/lewandofskee/DiAD)
+- **[DeCo-Diff]** Correcting Deviations from Normality: A Reformulated Diffusion Model for Multi-Class Unsupervised Anomaly Detection. | **arXiv 2025** | [[pdf]](https://arxiv.org/pdf/2503.19357.pdf) [[code]](https://github.com/farzad-beizaee/DeCo-Diff)
 #### - Foundation-model-based
 - **[WinCLIP]** WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation. | **CVPR 2023** | [[pdf]](https://arxiv.org/pdf/2303.14814.pdf) [[code]](https://github.com/caoyunkang/WinClip)
 - **[CLIP-AD]** CLIP-AD: A Language-Guided Staged Dual-Path Model for Zero-shot Anomaly Detection. | **arXiv 2023** | [[pdf]]() [[code]]()
@@ -53,6 +54,16 @@ Out-of-Distribution Samples and Adversarial Attacks. | **NIPS 2018** | [[pdf]](h
 - **[Myriad]** Myriad: Large Multimodal Model by Applying Vision Experts for Industrial Anomaly Detection. | **arXiv 2023** | [[pdf]](https://arxiv.org/pdf/2310.19070.pdf) [[code]](https://github.com/tzjtatata/Myriad)
 - **[GPT-4V]** Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead. | **arXiv 2023** | [[pdf]](https://arxiv.org/pdf/2311.02782.pdf) [[code]](https://github.com/caoyunkang/GPT4V-for-Generic-Anomaly-Detection)
 - **[GPT-4V-AD]** Exploring Grounding Potential of VQA-oriented GPT-4V for Zero-shot Anomaly Detection. | **arXiv 2023** | [[pdf]](https://arxiv.org/pdf/2311.02612.pdf) [[code]](https://github.com/zhangzjn/GPT-4V-AD)
+- **[CLIP-SAM]** ClipSAM: CLIP and SAM Collaboration for Zero-Shot Anomaly Segmentation. | **arXiv 2024** | [[pdf]](https://arxiv.org/pdf/2401.12665.pdf) [[code]](https://github.com/LiShengze99/ClipSAM)
+- **[AnomalyClip]** AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection. | **ICLR 2024** | [[pdf]](https://arxiv.org/pdf/2310.18961.pdf) [[code]](https://github.com/zqhang/AnomalyCLIP)
+- **[AA-CLIP]** AA-CLIP: Enhancing Zero-Shot Anomaly Detection via Anomaly-Aware CLIP. | **arXiv 2025** | [[pdf]](https://arxiv.org/pdf/2503.06661.pdf) [[code]](https://github.com/MaxwellWor/AA-CLIP)
+- **[MVFA]** Adapting visual-language models for generalizable anomaly detection in medical images. | **CVPR 2024** | [[pdf]](https://arxiv.org/pdf/2311.14821.pdf) [[code]](https://github.com/ChaoqinHuang/MVFA)
+- **[InCTRL]** Toward generalist anomaly detection via in-context residual learning with few-shot sample prompts. | **CVPR 2024** | [[pdf]](https://arxiv.org/pdf/2311.16732.pdf) [[code]](https://github.com/mala-group/InCTRL)
+- **[Bayes-PFL]** Bayesian Prompt Flow Learning for Zero-Shot Anomaly Detection. | **arXiv 2025** | [[pdf]](https://arxiv.org/pdf/2503.10080.pdf) [[code]](https://github.com/ZhenQuTHU/BayesPFL)
+- **[LogSAD]** Towards Training-free Anomaly Detection with Vision and Language Foundation Models. | **arXiv 2025** | [[pdf]](https://arxiv.org/pdf/2503.18325.pdf) [[code]](https://github.com/jinjinzhang/LogSAD)
+- **[LogicAD]** LogicAD: Explainable Anomaly Detection via VLM-based Text Feature Extraction. | **arXiv 2025** | [[pdf]](https://arxiv.org/pdf/2501.01767.pdf) [[code]](https://github.com/ErJin5/LogicAD)
+- **[Anomaly-OV]** Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models. | **arXiv 2025** | [[pdf]](https://arxiv.org/pdf/2502.07601.pdf) [[code]](https://github.com/jiacongxu/AnomalyLLM)
+- **[UniVAD]** UniVAD: A Training-free Unified Model for Few-shot Visual Anomaly Detection. | **arXiv 2024** | [[pdf]](https://arxiv.org/pdf/2412.03342.pdf) [[code]](https://github.com/CASIA-IVA-Lab/UniVAD)
 
 ### [Video]
 
@@ -70,6 +81,9 @@ Out-of-Distribution Samples and Adversarial Attacks. | **NIPS 2018** | [[pdf]](h
 - **[VQU-Net]** Discrete neural representations for explainable anomaly detection. | **WACV 2022** | [[pdf]](https://arxiv.org/pdf/2112.05585.pdf)
 - **[AI-VAD]** Attribute-based Representations for Accurate and Interpretable Video Anomaly Detection. | **arXiv 2022** | [[pdf]](https://arxiv.org/pdf/2212.00789.pdf) [[code]](https://github.com/talreiss/Accurate-Interpretable-VAD)
 - **[EVAL]** Eval: Explainable video anomaly localization. | **arXiv 2022** | [[pdf]](https://arxiv.org/pdf/2212.07900.pdf)
+#### - Memory-based
+- **[Memory AD]** Learning memory-guided normality for anomaly detection. | **CVPR 2020** | [[pdf]](https://arxiv.org/pdf/2004.02232.pdf) [[code]](https://github.com/cvpai-st/MemAE)
+- **[DLAN-AC]** Dynamic local aggregation network with adaptive clusterer for anomaly detection. | **ECCV 2022** | [[pdf]](https://arxiv.org/pdf/2207.07824.pdf) [[code]](https://github.com/DreamSkyZH/DLAN_AC)
   
 
 ## Datasets

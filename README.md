@@ -3,8 +3,8 @@
 Paper and dataset collection for the [paper](https://arxiv.org/pdf/2302.06670.pdf).
 
 <div align="center">
-  <img src="images/iad.jpg" width="350px" height="350px"> ></a>
-  <img src="images/vad.jpg" width="350px" height="350px">
+  <img src="images/iad_updated.png" width="350px" height="350px"> ></a>
+  <img src="images/vad_updated.jpg" width="350px" height="350px">
 </div>
 
 

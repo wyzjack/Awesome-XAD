@@ -74,7 +74,12 @@ Out-of-Distribution Samples and Adversarial Attacks. | **NIPS 2018** | [[pdf]](h
 - **[Scene-Graph]** Scene graphs for interpretable video anomaly classification. | **NIPSW 2018** | [[pdf]](https://nips2018vigil.github.io/static/papers/accepted/30.pdf) 
 - **[CTR]** Learning causal temporal relation and feature discrimination for anomaly detection. | **TIP 2021** | [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9369126) 
 - **[Interpretable]** Towards interpretable video anomaly detection. | **WACV 2023** | [[pdf]](https://openaccess.thecvf.com/content/WACV2023/papers/Doshi_Towards_Interpretable_Video_Anomaly_Detection_WACV_2023_paper.pdf) 
-- **[VADor-w-LSTC]** Video Anomaly Detection and Explanation via Large Language Models. | **arXiv 2024** | [[pdf]](https://arxiv.org/pdf/2401.05702.pdf)
+- **[VADor-w-LSTC]** Video Anomaly Detection and Explanation via Large Language Models. | **arXiv 2024** | [[pdf]](https://arxiv.org/pdf/2401.05702.pdf) 
+- **[LAVAD]** Harnessing Large Language Models for Training-free Video Anomaly Detection. | **CVPR 2024** | [[pdf]](https://arxiv.org/pdf/2404.01014) [[code]](https://github.com/lucazanella/lavad) 
+- **[AnomalyRuler]** Follow the Rules: Reasoning for Video Anomaly Detection with Large Language Models. | **ECCV 2024** | [[pdf]](https://arxiv.org/pdf/2407.10299) [[code]](https://github.com/Yuchen413/AnomalyRuler)   
+- **[Holmes-VAU]** Holmes-VAU: Towards Long-term Video Anomaly Understanding at Any Granularity. | **CVPR 2025** | [[pdf]](https://arxiv.org/pdf/2412.06171) [[code]](https://github.com/pipixin321/HolmesVAU)  
+- **[Anomize]** Anomize: Better open vocabulary video anomaly detection. | **CVPR 2025** | [[pdf]](https://arxiv.org/pdf/2503.18094)  
+- **[VERA]** VERA: Explainable Video Anomaly Detection via Verbalized Learning of Vision-Language Models. | **CVPR 2025** | [[pdf]](https://arxiv.org/pdf/2412.01095) [[code]](https://github.com/vera-framework/VERA) 
 #### - Intrinsic interpretable
 - **[JDR]** Joint detection and recounting of abnormal events by learning deep generic knowledge. | **ICCV 2017** | [[pdf]](https://arxiv.org/pdf/1709.09121.pdf) 
 - **[XMAN]** X-MAN: Explaining multiple sources of anomalies in video. | **CVPRW 2021** | [[pdf]](https://arxiv.org/pdf/2106.08856.pdf) 
